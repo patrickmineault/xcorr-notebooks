@@ -3,5 +3,5 @@ An ongoing collection of ipython notebooks on neuroscience, machine learning & c
 
 By Patrick Mineault, PhD
 
-  * [Contextual bandits with Thompson sampling](https://github.com/patrickmineault/xcorr-notebooks/blob/master/Contextual%20bandits%20with%20Thompson%20sampling.ipynb)
-  * [Persistent contrastive divergence for maximum entropy models](https://github.com/patrickmineault/pmtk3/blob/master/python/demos/maxEntPersistentContrastiveDivergence.ipynb)
+  * [Contextual bandits with Thompson sampling](http://nbviewer.jupyter.org/github/patrickmineault/xcorr-notebooks/blob/master/Contextual%20bandits%20with%20Thompson%20sampling.ipynb)
+  * [Persistent contrastive divergence for maximum entropy models](http://nbviewer.jupyter.org/github/patrickmineault/pmtk3/blob/master/python/demos/maxEntPersistentContrastiveDivergence.ipynb)
