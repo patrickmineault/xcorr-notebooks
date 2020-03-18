@@ -5,7 +5,8 @@ By Patrick Mineault, PhD
 
 ## Statistics
 
-  * [Reduced variance in reverse correlation estimates, antithetic sampling](http://nbviewer.jupyter.org/github//patrickmineault/xcorr-notebooks/blob/master/notebooks/Paired-sampling.ipynb)
+  * [Reduced variance in reverse correlation estimates, antithetic sampling](http://nbviewer.jupyter.org/github//patrickmineault/xcorr-notebooks/blob/master/Paired-sampling.ipynb)
+  * [Polynomial regression vs. Taylor expansion](http://nbviewer.jupyter.org/github//patrickmineault/xcorr-notebooks/blob/master/Expansion-Schmexpansion.ipynb)
 
 ## Machine learning
 
