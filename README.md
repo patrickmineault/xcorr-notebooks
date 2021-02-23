@@ -1,5 +1,5 @@
 # xcorr-notebooks
-An ongoing collection of ipython notebooks on neuroscience, machine learning & computer science from [xcorr: computational neuroscience](https://xcorr.net). 
+An ongoing collection of ipython notebooks and interactive visualizations on neuroscience, machine learning & computer science from [xcorr: computational neuroscience](https://xcorr.net). 
 
 By Patrick Mineault, PhD
 
@@ -21,7 +21,19 @@ By Patrick Mineault, PhD
   * [Reduced variance in reverse correlation estimates, antithetic sampling](http://nbviewer.jupyter.org/github/patrickmineault/xcorr-notebooks/blob/master/Paired-sampling.ipynb)
   * [Polynomial regression vs. Taylor expansion](http://nbviewer.jupyter.org/github/patrickmineault/xcorr-notebooks/blob/master/Expansion-Schmexpansion.ipynb)
 
-  
+## Interactive visualizations and widgets (Javascript)
+
+  * [Optimal control with a linear quadratic regulator](https://observablehq.com/@xcorr/optimal-control-example)
+  * [Self-organized criticality: the forest fire model](https://openprocessing.org/sketch/853689)
+  * [RGB color mixing](https://patrickmineault.github.io/precourse/rgb-widget.html)
+
+## Complex systems
+
+  * [Self-organized criticality in an Abelian sandpile model (Julia)](https://nbviewer.jupyter.org/github/patrickmineault/complex-systems/blob/master/Sandpile%20model.ipynb)
+  * [Percolation model](https://nbviewer.jupyter.org/github/patrickmineault/complex-systems/blob/master/Percolation%20model.ipynb)
+  * [Network analysis of C. Elegans](https://nbviewer.jupyter.org/github/patrickmineault/complex-systems/blob/master/Network%20analysis%20of%20C%20elegans.ipynb)
+
+
 ## Data Science
 
   * [Are NBA finals rigged?](http://nbviewer.jupyter.org/github/patrickmineault/xcorr-notebooks/blob/master/Are%20NBA%20finals%20rigged%3F.ipynb)
