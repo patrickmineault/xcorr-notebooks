@@ -9,6 +9,7 @@ By Patrick Mineault, PhD
   * [Gibbs sampling & block Gibbs sampling for the Ising model](http://nbviewer.jupyter.org/github/probml/pyprobml/blob/master/notebooks/Block%20Gibbs%20sampling%20for%20Ising%20model.ipynb)
   * [Persistent contrastive divergence for maximum entropy models](http://nbviewer.jupyter.org/github/patrickmineault/pmtk3/blob/master/python/demos/maxEntPersistentContrastiveDivergence.ipynb)
   * [Linear dimensionality reduction through gradient descent](http://nbviewer.jupyter.org/github/patrickmineault/xcorr-notebooks/blob/master/PCA_through_gradient_descent.ipynb)
+  * [ICA with normalizing flow models (NICE)](http://nbviewer.jupyter.org/github/patrickmineault/xcorr-notebooks/blob/master/A_linear_normalizing_flow_model_for_neural_ICA.ipynb]
 
 ## Reinforcement learning
 
