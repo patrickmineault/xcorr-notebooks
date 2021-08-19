@@ -31,7 +31,7 @@ By Patrick Mineault, PhD
   * [Stabilizing the cart pole with control theory](https://observablehq.com/@patrickmineault/stabilizing-the-cart-pole-inverse-pendulum-using-lqr)
   * [Self-organized criticality: the forest fire model](https://openprocessing.org/sketch/853689)
   * [RGB color mixing](https://patrickmineault.github.io/precourse/rgb-widget.html)
-  * [Nonlinear feedback to decouple oscillations](https://starboard.gg/pmin/desync-nKw0R7a)
+  * [Nonlinear feedback to decouple network of oscillators](https://starboard.gg/pmin/desync-nKw0R7a)
 
 ## Complex systems
 
