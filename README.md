@@ -5,7 +5,7 @@ By Patrick Mineault, PhD
 
 ## Machine learning
 
-  * [ICA with normalizing flow models (NICE)](https://github.com/patrickmineault/xcorr-notebooks/blob/master/notebooksA_linear_flow_model_for_neural_ICA.ipynb)
+  * [ICA with normalizing flow models (NICE)](https://github.com/patrickmineault/xcorr-notebooks/blob/master/notebooks/A_linear_flow_model_for_neural_ICA.ipynb)
   * [PCA through gradient descent](https://github.com/patrickmineault/xcorr-notebooks/blob/master/notebooks/PCA_through_gradient_descent.ipynb)
   * [Gibbs sampling & block Gibbs sampling for the Ising model](https://github.com/probml/pyprobml/blob/d8ec6c7c40b972e69a959e79a9aed2cdb6daea03/notebooks/Block%20Gibbs%20sampling%20for%20Ising%20model.ipynb)
   * [Persistent contrastive divergence for maximum entropy models](https://github.com/patrickmineault/pmtk3/blob/9a7e7f8b6444c04961afff103611628783311227/python/demos/maxEntPersistentContrastiveDivergence.ipynb)
@@ -36,10 +36,10 @@ By Patrick Mineault, PhD
 
 ## Complex systems
 
+  * [Network analysis of C. Elegans (Julia)](https://nbviewer.jupyter.org/github/patrickmineault/complex-systems/blob/master/Network%20analysis%20of%20C%20elegans.ipynb)
   * [Percolation model](https://nbviewer.jupyter.org/github/patrickmineault/complex-systems/blob/master/Percolation%20model.ipynb)
   * [Self-organized criticality in an Abelian sandpile model (Julia)](https://nbviewer.jupyter.org/github/patrickmineault/complex-systems/blob/master/Sandpile%20model.ipynb)
-  * [Network analysis of C. Elegans (Julia)](https://nbviewer.jupyter.org/github/patrickmineault/complex-systems/blob/master/Network%20analysis%20of%20C%20elegans.ipynb)
 
 ## Utils
 
-  * [Render OpenAI gym as GIF](https://github.com/patrickmineault/xcorr-notebooks/blob/master/notebooks/Render%20OpenAI%20gym%20as%20GIT.ipynb)
+  * [Render OpenAI gym as GIF](https://github.com/patrickmineault/xcorr-notebooks/blob/master/notebooks/Render%20OpenAI%20gym%20as%20GIF.ipynb)
