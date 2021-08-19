@@ -25,7 +25,11 @@ By Patrick Mineault, PhD
 
 ## Interactive visualizations and widgets (Javascript)
 
+  * [Linear integrate-and-fire neurons](https://observablehq.com/@patrickmineault/leaky-integrate-and-fire-lif-neuron-with-balanced-excitati)
+  * [Networks of balanced E/I linear integrate-and-fire neurons](https://observablehq.com/@patrickmineault/leaky-integrate-and-fire-lif-neuron-with-balanced-excitati)
+  * [A scrollytelling tour of balanced E/I networks](https://patrickmineault.github.io/scrollytelling/)
   * [Optimal control with a linear quadratic regulator](https://observablehq.com/@xcorr/optimal-control-example)
+  * [Stabilizing the cart pole with control theory](https://observablehq.com/@patrickmineault/stabilizing-the-cart-pole-inverse-pendulum-using-lqr)
   * [Self-organized criticality: the forest fire model](https://openprocessing.org/sketch/853689)
   * [RGB color mixing](https://patrickmineault.github.io/precourse/rgb-widget.html)
 
