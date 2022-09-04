@@ -40,6 +40,10 @@ By Patrick Mineault, PhD
   * [Percolation model](https://nbviewer.jupyter.org/github/patrickmineault/complex-systems/blob/master/Percolation%20model.ipynb)
   * [Self-organized criticality in an Abelian sandpile model (Julia)](https://nbviewer.jupyter.org/github/patrickmineault/complex-systems/blob/master/Sandpile%20model.ipynb)
 
+## Data Science
+
+  * [What happened to my body when I broke a leg (Garmin watch data)](https://github.com/patrickmineault/xcorr-notebooks/blob/master/notebooks/Analyze%20Garmin%20watch%20data.ipynb)
+
 ## Utils
 
   * [Render OpenAI gym as GIF](https://github.com/patrickmineault/xcorr-notebooks/blob/master/notebooks/Render%20OpenAI%20gym%20as%20GIF.ipynb)
